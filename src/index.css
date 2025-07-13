@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter;
+  /* background-color: #F4F7F9; */
+}
+nav svg{
+  width: 50px;
+  color: white;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav>span{
+  font-size: 25px;
+  color: white;
+
+}header{
+  background-color: #3A86FF ;
+}
