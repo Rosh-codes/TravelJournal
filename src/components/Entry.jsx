@@ -2,7 +2,7 @@ export default function Entry(props){
     return(
         <article>
             <div className="container">
-                <img src ={props.img} alt={props.name} />
+                <img src ={props.img} alt={props.alt} />
             </div>
             <div className="content">
                 <div className="location">
